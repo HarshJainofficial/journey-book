@@ -62,4 +62,5 @@
     - [Soumya Kushwaha](../journeys/Soumya-Kushwaha.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
     - [Vita Tran](../journeys/vita-tran.md)
+    - [Harsh Jain](../journeys/HarshJainOfficial.md)
 <!--END_SECTION:data-section-->
